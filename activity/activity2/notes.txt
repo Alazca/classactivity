@@ -1,0 +1,19 @@
+// 1 constant amount of operations linkedlist
+Performing replace or remove at a specific node. 
+// 2 constant operations times 2
+Adding multiple printing statements after each operation. 
+//
+
+
+
+
+// 3 switch number operations proportional to n
+print list, delete and print,
+
+
+//  use arrays 4 half the number of operations
+merge sort.
+//  use arrays 5 formulate functions as function of n 
+// input parameters or size
+use pointer notations.
+

@@ -1,0 +1,3 @@
+/home/alazca/development/activity/vector/build/CMakeFiles/a.dir
+/home/alazca/development/activity/vector/build/CMakeFiles/edit_cache.dir
+/home/alazca/development/activity/vector/build/CMakeFiles/rebuild_cache.dir
